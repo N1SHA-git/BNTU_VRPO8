@@ -1,0 +1,14 @@
+C:\1 курс\Введение в разработку ПО\lab7\bin\Debug\net8.0\lab7.exe
+C:\1 курс\Введение в разработку ПО\lab7\bin\Debug\net8.0\lab7.deps.json
+C:\1 курс\Введение в разработку ПО\lab7\bin\Debug\net8.0\lab7.runtimeconfig.json
+C:\1 курс\Введение в разработку ПО\lab7\bin\Debug\net8.0\lab7.dll
+C:\1 курс\Введение в разработку ПО\lab7\bin\Debug\net8.0\lab7.pdb
+C:\1 курс\Введение в разработку ПО\lab7\obj\Debug\net8.0\lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\1 курс\Введение в разработку ПО\lab7\obj\Debug\net8.0\lab7.AssemblyInfoInputs.cache
+C:\1 курс\Введение в разработку ПО\lab7\obj\Debug\net8.0\lab7.AssemblyInfo.cs
+C:\1 курс\Введение в разработку ПО\lab7\obj\Debug\net8.0\lab7.csproj.CoreCompileInputs.cache
+C:\1 курс\Введение в разработку ПО\lab7\obj\Debug\net8.0\lab7.dll
+C:\1 курс\Введение в разработку ПО\lab7\obj\Debug\net8.0\refint\lab7.dll
+C:\1 курс\Введение в разработку ПО\lab7\obj\Debug\net8.0\lab7.pdb
+C:\1 курс\Введение в разработку ПО\lab7\obj\Debug\net8.0\lab7.genruntimeconfig.cache
+C:\1 курс\Введение в разработку ПО\lab7\obj\Debug\net8.0\ref\lab7.dll
